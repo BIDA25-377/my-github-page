@@ -4,13 +4,13 @@ body {
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
-    line height: 1.6;
+    line-height: 1.6;
 }
 header{
     background-color: #4CAF50;
     color: white;
     padding: 20px;
-    text-allign: center;
+    text-align: center;
 }
 header h1{
     margin: 0;
@@ -28,7 +28,7 @@ nav a:hover {
 
 main {
     padding: 20px;
-    max width: 800px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ main img {
 footer {
     background-color: #333;
     color: white;
-    tex-allign: center;
+    text-align: center;
     padding: 10px;
     position: fixed;
     bottom: 0;
@@ -50,7 +50,7 @@ footer {
 }
 
 p {
-    font size: 1.1em;
+    font-size: 1.1em;
 }
 
 a {
@@ -58,11 +58,11 @@ a {
     text-decoration: none;
 }
 
-a:hober {
+a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid#4CAF50
+    border: 5px solid #4CAF50;
     border-radius: 10px;
 }
 
